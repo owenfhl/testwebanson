@@ -145,10 +145,9 @@ a{color:inherit;}
 }
 .tile-sports{
   background-color:#F97316;
-  background-image:url('sportmain.jpg');
+  background-image:url('images/sportmain.jpg');
   background-size:cover;
   background-position:center;
-  background-repeat:no-repeat;
 }
 .tile-arts{
   background-color:#EA580C;
